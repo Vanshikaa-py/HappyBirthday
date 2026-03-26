@@ -8,7 +8,7 @@
     { 
         text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
         emoji: "💗",
-        "gif2.gif"
+        gif: "gif2.gif"
     },
     { 
         text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
